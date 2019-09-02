@@ -6,3 +6,6 @@ build/
 ios/.generated/
 ios/Flutter/Generated.xcconfig
 ios/Runner/GeneratedPluginRegistrant.*
+*.iml
+pubspec.lock
+.idea
